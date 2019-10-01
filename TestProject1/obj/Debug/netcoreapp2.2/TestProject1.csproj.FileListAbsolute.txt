@@ -1,0 +1,17 @@
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.deps.json
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.runtimeconfig.json
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.runtimeconfig.dev.json
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\TestProject1.pdb
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\SDM Compulsory Assignment.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\bin\Debug\netcoreapp2.2\SDM Compulsory Assignment.pdb
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.csprojAssemblyReference.cache
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.AssemblyInfo.cs
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.csproj.CopyComplete
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\TestProject1\obj\Debug\netcoreapp2.2\TestProject1.pdb
