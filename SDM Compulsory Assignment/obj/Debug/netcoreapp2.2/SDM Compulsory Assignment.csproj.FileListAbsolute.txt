@@ -1,0 +1,9 @@
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\bin\Debug\netcoreapp2.2\SDM Compulsory Assignment.deps.json
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\bin\Debug\netcoreapp2.2\SDM Compulsory Assignment.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\bin\Debug\netcoreapp2.2\SDM Compulsory Assignment.pdb
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\obj\Debug\netcoreapp2.2\SDM Compulsory Assignment.csprojAssemblyReference.cache
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\obj\Debug\netcoreapp2.2\SDM Compulsory Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\obj\Debug\netcoreapp2.2\SDM Compulsory Assignment.AssemblyInfoInputs.cache
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\obj\Debug\netcoreapp2.2\SDM Compulsory Assignment.AssemblyInfo.cs
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\obj\Debug\netcoreapp2.2\SDM Compulsory Assignment.dll
+C:\Users\Nijas Hansen\source\repos\SDM_Compulsory_Assignment1\SDM Compulsory Assignment\obj\Debug\netcoreapp2.2\SDM Compulsory Assignment.pdb
