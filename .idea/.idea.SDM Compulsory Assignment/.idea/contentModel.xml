@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Christian\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Christian\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SDM Compulsory Assignment.-566562182.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Christian\RiderProjects\SDM Compulsory Assignment" t="IncludeFlat">
+    <e p="C:\Users\Christian\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SDM Compulsory Assignment.-1242581247.00" t="ExcludeRecursive" />
+    <e p="E:\GitHub\SDM_Compulsory_Assignment1" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="SDM Compulsory Assignment" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -14,6 +14,9 @@
               <e p="SDM Compulsory Assignment.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="RESOURCES" t="Include">
+          <e p="SmallRating.json" t="Include" />
         </e>
         <e p="SDM Compulsory Assignment.csproj" t="IncludeRecursive" />
       </e>

@@ -732,11 +732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian\\RiderProjects\\SDM Compulsory Assignment\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
+      "projectUniqueName": "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
       "projectName": "SDM Compulsory Assignment",
-      "projectPath": "C:\\Users\\Christian\\RiderProjects\\SDM Compulsory Assignment\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
+      "projectPath": "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
       "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian\\RiderProjects\\SDM Compulsory Assignment\\SDM Compulsory Assignment\\obj\\",
+      "outputPath": "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
