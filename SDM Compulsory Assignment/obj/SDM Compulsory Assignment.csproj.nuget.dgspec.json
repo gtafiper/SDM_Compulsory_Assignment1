@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj": {}
+    "C:\\Users\\Nijas Hansen\\source\\repos\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj": {
+    "C:\\Users\\Nijas Hansen\\source\\repos\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\Nijas Hansen\\source\\repos\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
         "projectName": "SDM Compulsory Assignment",
-        "projectPath": "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
-        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\obj\\",
+        "projectPath": "C:\\Users\\Nijas Hansen\\source\\repos\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\SDM Compulsory Assignment.csproj",
+        "packagesPath": "C:\\Users\\Nijas Hansen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nijas Hansen\\source\\repos\\SDM_Compulsory_Assignment1\\SDM Compulsory Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,7 +49,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3-beta1, )"
+              "version": "[12.0.2, )"
             }
           },
           "imports": [
